@@ -25,5 +25,3 @@ Para este paso se puede hacer de la misma manera para varias carpetas de la sigu
 `**git reset [Extensión del archivo]**`
 
 ## Otras formas de agregar archivos
-
-![Agregar%20ar%20dc652/Untitled.png](Agregar%20ar%20dc652/Untitled.png)

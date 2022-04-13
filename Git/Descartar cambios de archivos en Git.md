@@ -38,9 +38,8 @@ Hay una alternativa todavía un poco más compleja con el comando "git stash" pa
 
 El comando "stash" es suficientemente complejo para verlo en un artículo independiente, pero veamos una operativa muy sencilla para que podamos solucionar este caso particular.
 
-```
-git stash
-```
+`
+`git stash`
 
 Entonces nos aparecerá un mensaje como este "Saved working directory and index state WIP on nombre_rama". WIP son las siglas de "work in progress".
 

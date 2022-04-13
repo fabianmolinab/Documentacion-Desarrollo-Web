@@ -5,20 +5,20 @@ Tags: Basico
 
 ## ¿Como inciar un repositorio?
 
-`**git init**`
+`git init`
 
 Se creará una carpeta .**git** oculta en el directorio de la carpeta iniciada
 
 ## Configuración de usuario
 
-- `**git config --global user.email` **usuariodeMail**
-- `**git config --global user.name**`  **usuriodeGitHub**
+- `git config --global user.email`  **usuariodeMail**
+- `git config --global user.name`   **usuriodeGitHub**
 
 ## Estados de Git
 
 1. **Working Directory:** 
     
-    Este es el estado inicial de los archivos al ingresar `**git init**`  
+    Este es el estado inicial de los archivos al ingresar `git init`  
     
 2. **Staging Area:**
     
@@ -33,23 +33,23 @@ Se creará una carpeta .**git** oculta en el directorio de la carpeta iniciada
 
 ## Mandar y traer archivos al Repositorio Remoto en GitHub
 
-`**git push` **⇒ Mandar archvos al repositorio remoto**
+`git push` **⇒ Mandar archvos al repositorio remoto**
 
-`**git pull**` **⇒ Trae archivos del repositorio remoto al local**
+`git pull` **⇒ Trae archivos del repositorio remoto al local**
 
 ## Eliminar Archivos
 
-`**git rm**` ⇒ Remover Archivos
+`git rm` ⇒ Remover Archivos
 
-`**git rm --cached**` ⇒ Remover los archivos del cache o staging area
+`git rm --cached` ⇒ Remover los archivos del cache o staging area
 
 ## Otros comandos
 
-`**git clone` ⇒** Clona los repositorios 
+`git clone` ⇒ Clona los repositorios 
 
-`**git show` ⇒** Muestra el historial de cambios
+`git show` ⇒ Muestra el historial de cambios
 
-`**git push` ⇒** Compara commits
+`git push` ⇒ Compara commits
 
 ## ¿Que es el HEAD?
 

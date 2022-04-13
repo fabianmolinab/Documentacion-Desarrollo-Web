@@ -7,12 +7,8 @@
         "id": "fe7c7f0c20a9e32c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Markdown/Sintaxis de Markdown.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 344,
+    "collapsed": true
   },
   "right": {
     "id": "22971a0c503ca7ba",
@@ -77,14 +74,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown/Sintaxis de Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -93,25 +89,43 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a5260ccb4447405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "Markdown/Sintaxis de Markdown.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "40a851d4e61c11ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "fe7c7f0c20a9e32c",
   "lastOpenFiles": [
     "Markdown/Sintaxis de Markdown.md",
-    "Git/Agregar commit de archivos individuales.md",
     "Git/Git General.md",
-    "Git/Como volver a commits anteriores.md",
     "Git/Comandos Basicos de Git.md",
+    "Git/Creando Alias.md",
+    "Git/Agregar commit de archivos individuales.md",
+    "Git/Como volver a commits anteriores.md",
     "Agregar ar dc652/Untitled.png.md"
   ]
 }

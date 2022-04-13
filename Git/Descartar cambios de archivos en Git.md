@@ -3,7 +3,7 @@
 Enlaces: https://desarrolloweb.com/articulos/descartar-cambios-archivos-git.html
 Tags: Basico
 
-`git checkout -- [ruta del archivo]` ⇒ Elimina cambios que no este ni en stating ni commiteados**
+`git checkout -- [ruta del archivo]` ⇒ **Elimina cambios que no este ni en stating ni commiteados**
 
 Esta linea regresa al últimos commit del archivo seleccionado
 
@@ -13,9 +13,7 @@ Ahora imagina que has hecho cambios sobre varios archivos, pero no te gustaron y
 
 Esta operación la consigues con el comando "git reset". La podrás realizar de la siguiente manera:
 
-```markdown
-git reset --hard
-```
+`git reset --hard`
 
 La opción "--hard" provoca que cualquier cambio de archivos cuyo seguimiento llevamos con Git se elimine, volviendo al estado justo después del último commit. Eso quiere decir que, si hubiera archivos que no se han agregado todavía al repositorio (archivos nuevos desde el último commit), permanecerán en el espacio de trabajo.
 
@@ -25,9 +23,7 @@ Pudiera darse el caso que hayas hecho "git add" de un archivo que ahora pretende
 
 La operativa anterior de reset funcionará también en este caso.
 
-```
-git reset --hard
-```
+`git reset --hard`
 
 Si haces "git reset --hard" esos cambios también se eliminarán, pero podría ocurrir que hayas hecho el add de varios archivos al staging area y sólo quieras resetear los cambios de uno de ellos. Entonces tendrías que usar el comando reset con una opción diferente (recuerda que "git reset --hard" descarta los cambios de todos los archivos). Para eliminar entonces estos cambios de un archivo único, primero tendríamos que sacar el archivo en concreto del staging area y luego descartar los cambios, con la combinación de estos dos comandos.
 

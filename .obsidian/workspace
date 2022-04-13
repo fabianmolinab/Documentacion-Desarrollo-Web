@@ -7,8 +7,13 @@
         "id": "fe7c7f0c20a9e32c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Git/Descartar cambios de archivos en Git.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/Descartar cambios de archivos en Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git/Descartar cambios de archivos en Git.md"
+              }
             }
           },
           {
@@ -116,16 +124,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "fe7c7f0c20a9e32c",
   "lastOpenFiles": [
+    "Git/Descartar cambios de archivos en Git.md",
+    "Git/Crear proyecto en GitHub desde la Terminal.md",
+    "Crear proy b69dc/repo-create.png.md",
+    "repo-create.png",
     "Markdown/Sintaxis de Markdown.md",
     "Git/Git General.md",
     "Git/Comandos Basicos de Git.md",
     "Git/Creando Alias.md",
     "Git/Agregar commit de archivos individuales.md",
-    "Git/Como volver a commits anteriores.md",
-    "Agregar ar dc652/Untitled.png.md"
+    "Git/Como volver a commits anteriores.md"
   ]
 }

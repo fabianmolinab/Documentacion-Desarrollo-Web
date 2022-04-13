@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "f4fb1aa056afee32",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe7c7f0c20a9e32c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git/Agregar ar dc652.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a38e80babdda6c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f75ea3cd71e1336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59a91efc6d702612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69b0df4f11557552",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04db0e108acbceba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22971a0c503ca7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "6135a6c6014b6e98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e976306cec039858",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Agregar ar dc652.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "225bcc092c3be0ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Agregar ar dc652.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe7c7f0c20a9e32c",
+  "lastOpenFiles": [
+    "Git/Agregar ar dc652.md",
+    "Git/Comandos Basicos de Git.md",
+    "Git/Git General.md",
+    "Git/Como volver a commits anteriores.md"
+  ]
+}

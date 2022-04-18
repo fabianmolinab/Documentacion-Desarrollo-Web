@@ -1,5 +1,9 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "Fira Code",
+  "cssTheme": "Obsidianite",
+  "interfaceFontFamily": "SF Pro Display",
+  "monospaceFontFamily": "SF Mono"
 }

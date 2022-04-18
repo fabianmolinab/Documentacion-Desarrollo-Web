@@ -6,32 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "Git",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "Markdown",
-      "color": {
-        "a": 1,
-        "rgb": 5413856
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.6,
-  "nodeSizeMultiplier": 0.815730337078652,
-  "lineSizeMultiplier": 1.3938202247191,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1.14606741573034,
+  "lineSizeMultiplier": 0.953370786516854,
   "collapse-forces": false,
   "centerStrength": 0.325842696629214,
   "repelStrength": 8.08988764044944,
   "linkStrength": 0.410112359550562,
   "linkDistance": 250,
-  "scale": 0.8360386601669911,
-  "close": true
+  "scale": 0.5843581180567483,
+  "close": false
 }

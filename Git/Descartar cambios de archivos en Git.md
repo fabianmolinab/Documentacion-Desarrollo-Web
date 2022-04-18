@@ -27,7 +27,7 @@ La operativa anterior de reset funcionará también en este caso.
 
 Si haces "git reset --hard" esos cambios también se eliminarán, pero podría ocurrir que hayas hecho el add de varios archivos al staging area y sólo quieras resetear los cambios de uno de ellos. Entonces tendrías que usar el comando reset con una opción diferente (recuerda que "git reset --hard" descarta los cambios de todos los archivos). Para eliminar entonces estos cambios de un archivo único, primero tendríamos que sacar el archivo en concreto del staging area y luego descartar los cambios, con la combinación de estos dos comandos.
 
-```
+```markdown
 git reset HEAD archivo.txt
 git checkout -- archivo.txt
 ```
@@ -38,7 +38,6 @@ Hay una alternativa todavía un poco más compleja con el comando "git stash" pa
 
 El comando "stash" es suficientemente complejo para verlo en un artículo independiente, pero veamos una operativa muy sencilla para que podamos solucionar este caso particular.
 
-`
 `git stash`
 
 Entonces nos aparecerá un mensaje como este "Saved working directory and index state WIP on nombre_rama". WIP son las siglas de "work in progress".

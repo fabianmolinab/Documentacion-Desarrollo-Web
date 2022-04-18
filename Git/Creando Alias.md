@@ -9,12 +9,11 @@ Puedes crear todo tipo de aliases, pero la condición es que solo funcionan dent
 ## Creando Alias por repositorio
 **Dentro del repositorio**
 `` git config alias.[atajo] "[comando]"``
-## Ejemplo
 
+## Ejemplo
 `git config --global alias.lg "log --oneline --decorate --all --graph"`
 
 Al escribir seria ⇒ `git lg`
 
 ## Eliminando Alias
-
 `git config --global --unset alias.[nombre de alias]`

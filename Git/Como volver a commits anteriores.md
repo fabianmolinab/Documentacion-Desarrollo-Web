@@ -20,6 +20,7 @@ Sección para volver en el tiempo en #git
 3. `git reset [commit] --hard` 
 
 
+
 ## Modificar mensajes de los commit
 
 1. `git commit --amend -m "Mensaje"` ⇒ Modifica el mensaje del ultimo commit**

@@ -62,8 +62,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 268,
     "collapsed": true
+=======
+    "width": 268
+>>>>>>> origin/main
   },
   "right": {
     "id": "22971a0c503ca7ba",
@@ -79,7 +83,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Git/Cuando Origin Master esta fuera de HEAD.md",
+=======
+                "file": "Git/Git General.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Git/Cuando Origin Master esta fuera de HEAD.md"
+=======
+                "file": "Git/Git General.md"
+>>>>>>> origin/main
               }
             }
           },
@@ -128,6 +140,7 @@
   },
   "active": "ccfe7441fcd1a154",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Git/Cuando Origin Master esta fuera de HEAD.md",
     "Git/Git General.md",
     "Git/Como volver a commits anteriores.md",
@@ -138,5 +151,17 @@
     "Markdown/Sintaxis de Markdown.md",
     "Git/Crear proyecto en GitHub desde la Terminal.md",
     "Git/Eliminar y renombrar archivos desde Git.md"
+=======
+    "Git/Git General.md",
+    "Git/Crear proyecto en GitHub desde la Terminal.md",
+    "Git/Eliminar y renombrar archivos desde Git.md",
+    "Git/Flujo de Trabajo en Git.md",
+    "Flujo de T 3a467/Untitled.png.md",
+    "Git/Cuando Origin Master esta fuera de HEAD.md",
+    "Cuando Ori 71e58/Untitled.png.md",
+    "Git/Agregar un respositorio remoto y SSH.md",
+    "Git/Comandos Basicos de Git.md",
+    "Git/Crear proy b69dc.md"
+>>>>>>> origin/main
   ]
 }

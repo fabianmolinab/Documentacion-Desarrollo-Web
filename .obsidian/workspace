@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Como volver a commits anteriores.md",
+            "file": "Git/Cuando Origin Master esta fuera de HEAD.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Como volver a commits anteriores.md",
+                "file": "Git/Cuando Origin Master esta fuera de HEAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Como volver a commits anteriores.md"
+                "file": "Git/Cuando Origin Master esta fuera de HEAD.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "ccfe7441fcd1a154",
   "lastOpenFiles": [
-    "Git/Como volver a commits anteriores.md",
+    "Git/Cuando Origin Master esta fuera de HEAD.md",
     "Git/Git General.md",
+    "Git/Como volver a commits anteriores.md",
     "Git/Agregar commit de archivos individuales.md",
     "Git/Descartar cambios de archivos en Git.md",
     "Git/Flujo de Trabajo en Git.md",
     "Git/Todo sobre ramas.md",
     "Markdown/Sintaxis de Markdown.md",
     "Git/Crear proyecto en GitHub desde la Terminal.md",
-    "Git/Eliminar y renombrar archivos desde Git.md",
-    "Flujo de T 3a467/Untitled.png.md"
+    "Git/Eliminar y renombrar archivos desde Git.md"
   ]
 }

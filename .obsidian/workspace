@@ -9,49 +9,12 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TypeScript/TypeScript.md",
-            "mode": "source",
+            "file": "TypeScript/TypeScript con React.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
-        },
-        "group": "300f719e13fec561"
-      },
-      {
-        "id": "2af73aaf1cd4175f",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "TypeScript/TypeScript.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "300f719e13fec561"
+        }
       }
     ],
     "direction": "vertical"
@@ -99,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1315e25129f5e26f",
@@ -123,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/TypeScript.md",
+                "file": "TypeScript/TypeScript con React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/TypeScript.md"
+                "file": "TypeScript/TypeScript con React.md"
               }
             }
           }
@@ -162,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2af73aaf1cd4175f",
+  "active": "00fd4079e1e11b1e",
   "lastOpenFiles": [
-    "TypeScript/TypeScript.md",
-    "TypeScript/React Typescript Basics.md",
-    "TypeScript/Instalaciones de TS y JEST.md",
-    "TypeScript/Object Typ cad74.md",
     "TypeScript/TypeScript con React.md",
-    "TypeScript/Cómo migrar de js a ts.md",
     "TypeScript/Interfaces.md",
-    "TypeScript/Uso de interfaces en TypeScript.md",
+    "TypeScript/Parte 3 Interfaces [articulo].md",
+    "TypeScript/Generalidades.md",
+    "TypeScript/Objetos.md",
     "TypeScript/Tipos Literales.md",
-    "TypeScript/Alias.md"
+    "TypeScript/Clases.md",
+    "TypeScript/Funciones.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/Instalaciones de TS y JEST.md"
   ]
 }

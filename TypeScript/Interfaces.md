@@ -22,9 +22,9 @@ function login(): UserData {
 let data = login();
 ```
 
-Este capitulo es uno de los importantes en el tipado, las interfaces las defino como esos requerimientos que hacemos para implementarlos luego, son como los planos de una casa se deben seguir al pie de la letra a la hora de construir la casa. En ejemplo anterior tenemos `**interface**` **UserData** que son los requerimientos en forma de objeto, que luego la función login le asignamos **UserData** como el valor que torna la función. 
+Este capitulo es uno de los importantes en el tipado, las interfaces las defino como esos requerimientos que hacemos para implementarlos luego, son como los planos de una casa se deben seguir al pie de la letra a la hora de construir la casa. En ejemplo anterior tenemos `interface` **UserData** que son los requerimientos en forma de objeto, que luego la función login le asignamos **UserData** como el valor que retorna la función. 
 
-Login estrictamente debe tener los tipos de datos definidos en **UserData** que es la `**interface**` creada anteriormente, en caso que de omita o añada otro dato diferente este tendra un error. He aquí la potencia de las interface. 
+Login estrictamente debe tener los tipos de datos definidos en **UserData** que es la `interface` creada anteriormente, en caso que de omita o añada otro dato diferente este tendrá un error. He aquí la potencia de las interface. 
 
 ### Propiedades Opcionales y solo lectura
 
@@ -51,5 +51,6 @@ Para definir propiedades dentro de las interfaces que no son requeridas lo hacem
 
 ### Interfaces usándolas con clases
 
-## Referencias
-[[Uso de interfaces en TypeScript]] Enlace externo :D
+## Referencias y Articulos
+* [[Uso de interfaces en TypeScript]] Enlace externo :D
+* [[Parte 3 Interfaces [articulo]]] Uso de Interfaces

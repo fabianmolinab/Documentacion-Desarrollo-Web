@@ -30,9 +30,9 @@ boton(boton1);
 ```jsx
 let suma : (number1: number, number2: number ) => number = (number1, number2) => {
 
-  let suma = number1 + numbser2;
+  let ResultadoSuma = number1 + numbser2;
 
-  console.log(`El resultado de la suma es ${suma}`)
-  return suma;
+  console.log(`El resultado de la suma es ${ResultadoSuma}`)
+  return ResultadoSuma;
 }
 ```

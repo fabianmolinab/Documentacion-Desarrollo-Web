@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "00fd4079e1e11b1e",
+        "id": "ae475e7e340ca49c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "TypeScript/TypeScript con React.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00fd4079e1e11b1e",
+  "active": "ae475e7e340ca49c",
   "lastOpenFiles": [
     "TypeScript/TypeScript con React.md",
-    "TypeScript/Interfaces.md",
-    "TypeScript/Parte 3 Interfaces [articulo].md",
-    "TypeScript/Generalidades.md",
-    "TypeScript/Objetos.md",
-    "TypeScript/Tipos Literales.md",
-    "TypeScript/Clases.md",
+    "Markdown/Sintaxis de Markdown.md",
+    "TypeScript/Imagenes/React-type2.png",
     "TypeScript/Funciones.md",
-    "TypeScript/TypeScript.md",
-    "TypeScript/Instalaciones de TS y JEST.md"
+    "TypeScript/Tipos Literales.md",
+    "Git/Git General.md",
+    "TypeScript/Interfaces.md",
+    "TypeScript/React Typescript Basics.md",
+    "TypeScript/Parte 3 Interfaces [articulo].md",
+    "TypeScript/Generalidades.md"
   ]
 }

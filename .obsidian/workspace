@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TypeScript/TypeScript con React.md",
-            "mode": "source",
+            "file": "Git/Todo sobre ramas.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1315e25129f5e26f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/TypeScript con React.md",
+                "file": "Git/Todo sobre ramas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/TypeScript con React.md"
+                "file": "Git/Todo sobre ramas.md"
               }
             }
           }
@@ -128,15 +127,15 @@
   },
   "active": "ae475e7e340ca49c",
   "lastOpenFiles": [
-    "TypeScript/TypeScript con React.md",
-    "Markdown/Sintaxis de Markdown.md",
-    "TypeScript/Imagenes/React-type2.png",
-    "TypeScript/Funciones.md",
-    "TypeScript/Tipos Literales.md",
+    "Git/Todo sobre ramas.md",
+    "Git/Realizar un Pull Request.md",
+    "Git/Como volver a commits anteriores.md",
+    "Git/Cuando Origin Master esta fuera de HEAD.md",
+    "Git/Flujo de Trabajo en Git.md",
+    "Git/Descartar cambios de archivos en Git.md",
     "Git/Git General.md",
-    "TypeScript/Interfaces.md",
-    "TypeScript/React Typescript Basics.md",
-    "TypeScript/Parte 3 Interfaces [articulo].md",
-    "TypeScript/Generalidades.md"
+    "Git/Crear proyecto en GitHub desde la Terminal.md",
+    "Git/Eliminar y renombrar archivos desde Git.md",
+    "Git/Agregar un respositorio remoto y SSH.md"
   ]
 }

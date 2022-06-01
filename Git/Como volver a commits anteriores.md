@@ -39,6 +39,9 @@ Sección para volver en el tiempo en #git
 
 `**git commit -m "Se revirtieron los cambios"**` ⇒ subir los cambios
 
+### Forzar cambios de un repositorio local a remoto
+`git push origin -f`
+Esto borra todos los commits del repositorio remoto que no este en el HEAD local.
 
 ### Referencias
 **[[Descartar cambios de archivos en Git]]**

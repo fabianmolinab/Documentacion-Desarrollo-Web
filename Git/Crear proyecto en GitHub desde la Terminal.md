@@ -28,7 +28,7 @@ CLI de GitHub es una herramienta de código abierto para utilizar GitHub desde l
     Para crear un repositorio para tu proyecto en GitHub, utiliza el subcomando `gh repo create`. Reemplaza a `project-name` con el nombre que deseas dar a tu repositorio. Si quieres que tu proyecto pertenezca a una organización en vez de a tu cuenta de usuario, especifica el nombre de la organización y del proyecto con `organization-name/project-name`.
     
     ```
-    gh repo createproject-name
+    gh repo create project-name
     ```
     
 4. 

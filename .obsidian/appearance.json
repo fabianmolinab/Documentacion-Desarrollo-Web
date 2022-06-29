@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "theme": "obsidian",
-  "translucency": true,
-  "textFontFamily": "Fira Code,Cascadia Code,Product Sans",
-  "cssTheme": "Blue Topaz",
-  "interfaceFontFamily": "SF Pro Display",
-  "monospaceFontFamily": "SF Mono"
+  "translucency": false,
+  "textFontFamily": "IBM Plex Sans,Cooper Hewitt,Charter,Product Sans,SF Pro Display,Athelas,Fira Code",
+  "cssTheme": "Primary",
+  "interfaceFontFamily": "IBM Plex Sans,SF Pro Display,IBM Plex Mono",
+  "monospaceFontFamily": "IBM Plex Mono,SF Mono,Cascadia Code PL",
+  "baseFontSizeAction": true
 }

@@ -23,7 +23,7 @@ export const App: ReactFC = ({ title, subtitle }: Props) => {
 };
 ```
 
-Estoy definiendo como `interface` **Props** se pase como argumento de la función, que este caso sea title, subtitle, ambos son propiedades que requiere el componente para existir, que son de tipo Props que esta estructurado como un objeto, por lo siguiente se desestructura con `({ title, subtitle }: Props)` y ya tenemos las propiedades disponibles y deben ser siempre mandadas con el tipo de dato de la inteface.
+Estoy definiendo como  `interface`  **Props** se pase como argumento de la función, que este caso sea title, subtitle, ambos son propiedades que requiere el componente para existir, que son de tipo Props que esta estructurado como un objeto, por lo siguiente se desestructura con `({ title, subtitle }: Props)` y ya tenemos las propiedades disponibles y deben ser siempre mandadas con el tipo de dato de la inteface.
 
 ### Tipar Componentes de otra forma
 
@@ -146,6 +146,8 @@ export const FocusScreen = () => {
 	)
 }
 ```
+
+## Use Reducer
 
 ## Custom Hooks
 

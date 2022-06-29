@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ae475e7e340ca49c",
+        "id": "2d1ac43def96e0d8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Todo sobre ramas.md",
+            "file": "Next/Next.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0094f7f64f4d6781",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Next/Server Side Rendering.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Todo sobre ramas.md",
+                "file": "Next/Next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,28 +127,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Todo sobre ramas.md"
+                "file": "Next/Next.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ae475e7e340ca49c",
+  "active": "2d1ac43def96e0d8",
   "lastOpenFiles": [
+    "Next/Next.md",
     "Git/Todo sobre ramas.md",
-    "Git/Realizar un Pull Request.md",
-    "Git/Como volver a commits anteriores.md",
     "Git/Cuando Origin Master esta fuera de HEAD.md",
-    "Git/Flujo de Trabajo en Git.md",
-    "Git/Descartar cambios de archivos en Git.md",
-    "Git/Git General.md",
-    "Git/Crear proyecto en GitHub desde la Terminal.md",
-    "Git/Eliminar y renombrar archivos desde Git.md",
-    "Git/Agregar un respositorio remoto y SSH.md"
+    "Next/Rutas en Next.md",
+    "Next/Server Side Rendering.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/Generalidades.md",
+    "TypeScript/Clases.md",
+    "TypeScript/Funciones.md",
+    "TypeScript/Interfaces.md"
   ]
 }

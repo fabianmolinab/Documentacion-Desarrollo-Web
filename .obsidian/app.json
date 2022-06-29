@@ -1,5 +1,9 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./anexos",
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current"
 }

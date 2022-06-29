@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Next/Next.md",
+            "file": "Next/Rutas en Next.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -99,7 +99,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Next/Next.md",
+=======
+                "file": "Next/Rutas en Next.md",
+>>>>>>> 8d979261ef302f717821178a3a47ea2109b958fb
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +131,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Next/Next.md"
+=======
+                "file": "Next/Rutas en Next.md"
+>>>>>>> 8d979261ef302f717821178a3a47ea2109b958fb
               }
             }
           }
@@ -141,15 +149,26 @@
   },
   "active": "2d1ac43def96e0d8",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Next/Next.md",
     "Git/Todo sobre ramas.md",
     "Git/Cuando Origin Master esta fuera de HEAD.md",
     "Next/Rutas en Next.md",
+=======
+    "Next/Rutas en Next.md",
+    "Next/Next.md",
+>>>>>>> 8d979261ef302f717821178a3a47ea2109b958fb
     "Next/Server Side Rendering.md",
     "TypeScript/TypeScript.md",
     "TypeScript/Generalidades.md",
     "TypeScript/Clases.md",
     "TypeScript/Funciones.md",
+<<<<<<< HEAD
     "TypeScript/Interfaces.md"
+=======
+    "TypeScript/Interfaces.md",
+    "Parte 3 Interfaces [articulo.md",
+    "pages/contents.md"
+>>>>>>> 8d979261ef302f717821178a3a47ea2109b958fb
   ]
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d1ac43def96e0d8",
+        "id": "c462036d20e7ca37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Next/Rutas en Next.md",
+            "file": "Next/getInitialProps.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,13 +17,39 @@
         }
       },
       {
-        "id": "0094f7f64f4d6781",
+        "id": "09b83d99354f64fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Next/Server Side Rendering.md",
-            "mode": "preview",
+            "file": "Next/004 Estilos dentro de los componentes.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "34e1e91605dbc867",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Next/000  Next.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c743b9a1d80ec4eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Markdown/Sintaxis de Markdown.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -54,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#next",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1315e25129f5e26f",
@@ -99,11 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Next/Next.md",
-=======
-                "file": "Next/Rutas en Next.md",
->>>>>>> 8d979261ef302f717821178a3a47ea2109b958fb
+                "file": "Next/000  Next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,11 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Next/Next.md"
-=======
-                "file": "Next/Rutas en Next.md"
->>>>>>> 8d979261ef302f717821178a3a47ea2109b958fb
+                "file": "Next/000  Next.md"
               }
             }
           }
@@ -147,28 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d1ac43def96e0d8",
+  "active": "34e1e91605dbc867",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Next/Next.md",
-    "Git/Todo sobre ramas.md",
-    "Git/Cuando Origin Master esta fuera de HEAD.md",
-    "Next/Rutas en Next.md",
-=======
-    "Next/Rutas en Next.md",
-    "Next/Next.md",
->>>>>>> 8d979261ef302f717821178a3a47ea2109b958fb
+    "Next/000  Next.md",
+    "Next/003 Rutas en Next.md",
+    "Next/004 Estilos dentro de los componentes.md",
+    "Next/getInitialProps.md",
+    "Markdown/Sintaxis de Markdown.md",
+    "Next/Instalación de Next con Vite.md",
+    "TypeScript/Parte 3 Interfaces [articulo].md",
+    "TypeScript/Instalaciones de TS y JEST.md",
     "Next/Server Side Rendering.md",
-    "TypeScript/TypeScript.md",
-    "TypeScript/Generalidades.md",
-    "TypeScript/Clases.md",
-    "TypeScript/Funciones.md",
-<<<<<<< HEAD
-    "TypeScript/Interfaces.md"
-=======
-    "TypeScript/Interfaces.md",
-    "Parte 3 Interfaces [articulo.md",
-    "pages/contents.md"
->>>>>>> 8d979261ef302f717821178a3a47ea2109b958fb
+    "Git/Todo sobre ramas.md"
   ]
 }

@@ -2,7 +2,7 @@
   "baseFontSize": 20,
   "theme": "obsidian",
   "translucency": false,
-  "textFontFamily": "IBM Plex Sans,Cooper Hewitt,Charter,Product Sans,SF Pro Display,Athelas,Fira Code",
+  "textFontFamily": "IBM Plex Sans,Fira Code,Athelas,Charter,Cooper Hewitt,Product Sans,SF Pro Display",
   "cssTheme": "Primary",
   "interfaceFontFamily": "IBM Plex Sans,SF Pro Display,IBM Plex Mono",
   "monospaceFontFamily": "IBM Plex Mono,SF Mono,Cascadia Code PL",

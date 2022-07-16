@@ -4,51 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c462036d20e7ca37",
+        "id": "1d7cd6e8a2fc252d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Next/getInitialProps.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "09b83d99354f64fa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Next/004 Estilos dentro de los componentes.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "34e1e91605dbc867",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Next/000  Next.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c743b9a1d80ec4eb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Markdown/Sintaxis de Markdown.md",
+            "file": "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -80,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#next",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next/000  Next.md",
+                "file": "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next/000  Next.md"
+                "file": "Gestion de Proyectos Agiles/000 Metodologias Agiles.md"
               }
             }
           }
@@ -166,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34e1e91605dbc867",
+  "active": "1d7cd6e8a2fc252d",
   "lastOpenFiles": [
-    "Next/000  Next.md",
-    "Next/003 Rutas en Next.md",
-    "Next/004 Estilos dentro de los componentes.md",
-    "Next/getInitialProps.md",
+    "Gestion de Proyectos Agiles/001 Scrum.md",
+    "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
     "Markdown/Sintaxis de Markdown.md",
-    "Next/Instalación de Next con Vite.md",
-    "TypeScript/Parte 3 Interfaces [articulo].md",
-    "TypeScript/Instalaciones de TS y JEST.md",
+    "Next/003 Rutas en Next.md",
+    "TypeScript/Tipos Literales.md",
+    "Next/000  Next.md",
     "Next/Server Side Rendering.md",
-    "Git/Todo sobre ramas.md"
+    "TypeScript/Objetos.md",
+    "Git/Como volver a commits anteriores.md",
+    "TypeScript/TypeScript con React.md"
   ]
 }

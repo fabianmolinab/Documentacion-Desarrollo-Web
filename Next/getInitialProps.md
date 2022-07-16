@@ -33,3 +33,5 @@ export default TimeLine
 ```
 
 En este ejemplo le pasamos *username* que la prop que renderiza el componente. Algo muy importante es que todos los metodos que pasamos por esta función son asincronos, asi que podemos pasar promesas o async y await. Dentro de la documentación afirman que esta función esta siendo deprecada por metodos mas actuales para traer datos a los componentes.
+
+**Nota:** Las getInitialProps solo se pueden utilizar en paginas, nada de jsx ni componentes funcionales. 

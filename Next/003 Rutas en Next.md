@@ -7,7 +7,7 @@ Una de las funciones de Next es el rooter, que se comporta por medio de archivos
 
 ## Sistemas de Rutas SPA
 
-Cuando queremos crear una ruta pero que no se recargue la paguina cada vez es decir un sistema (SPA) tenemos que indicarselo ya que por defecto con el router no está activado. Seria de la siguiente manera:
+Cuando queremos crear una ruta pero que no se recargue la pagina cada vez es decir un sistema (SPA) tenemos que indicarselo ya que por defecto con el router no está activado. Seria de la siguiente manera:
 
 ```jsx
 import Link form 'next/link'

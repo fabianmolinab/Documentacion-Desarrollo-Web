@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
+            "file": "Gestion de Proyectos Agiles/001 Scrum.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b53ded7a67e9c608",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Markdown/Sintaxis de Markdown.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
+                "file": "Gestion de Proyectos Agiles/001 Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de Proyectos Agiles/000 Metodologias Agiles.md"
+                "file": "Gestion de Proyectos Agiles/001 Scrum.md"
               }
             }
           }
@@ -127,11 +140,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d7cd6e8a2fc252d",
+  "active": "dd08ce86a3110706",
   "lastOpenFiles": [
-    "Gestion de Proyectos Agiles/001 Scrum.md",
     "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
     "Markdown/Sintaxis de Markdown.md",
+    "Gestion de Proyectos Agiles/001 Scrum.md",
     "Next/003 Rutas en Next.md",
     "TypeScript/Tipos Literales.md",
     "Next/000  Next.md",

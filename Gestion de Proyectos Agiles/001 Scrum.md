@@ -2,7 +2,8 @@
 
 En pocas palabras Scrum es un framework que nos permite gestionar los sprint de nuestras metodologias agiles.
 
-![[scrum.png]]
+![](./anexos/scrum.png)
+
 
 ## Fases de la metodología 
 

@@ -9,7 +9,7 @@ Es un conjunto de filosofias y metodologias que ese implementan para el desarrol
 
 La mejor forma de describir los proyectos agiles es por **Sprints** que serian versiones del proyectos implemetadas de manera individual pero conectadas, permitiendo implementaciones en cortos periodos de tiempo.
 
-![[Pasted image 20220716091648.png]]
+![Metodologias Agiles](./anexos/metodoagil.png)
 
 ## Metodologia SCRUM
 

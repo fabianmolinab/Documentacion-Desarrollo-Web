@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b53ded7a67e9c608",
+        "id": "887e94c444a0d054",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gestion de Proyectos Agiles/002 Kanban.md",
+            "file": "Gestion de Proyectos Agiles/003 Programacion Extrema.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,25 +17,12 @@
         }
       },
       {
-        "id": "a59642b9ffc5a16e",
+        "id": "0956268d71e6df3f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3903e75574eedea1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gestion de Proyectos Agiles/002 Kanban.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de Proyectos Agiles/002 Kanban.md",
+                "file": "Gestion de Proyectos Agiles/003 Programacion Extrema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,29 +128,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de Proyectos Agiles/002 Kanban.md"
+                "file": "Gestion de Proyectos Agiles/003 Programacion Extrema.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "b53ded7a67e9c608",
+  "active": "00117477be06ff01",
   "lastOpenFiles": [
     "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
+    "Gestion de Proyectos Agiles/003 Programacion Extrema.md",
     "Gestion de Proyectos Agiles/002 Kanban.md",
     "Gestion de Proyectos Agiles/001 Scrum.md",
-    "Markdown/Sintaxis de Markdown.md",
+    "CSS/001 Guía de BEM para CSS.md",
+    "CSS/002 Flexbox.md",
     "Next/003 Rutas en Next.md",
-    "TypeScript/Tipos Literales.md",
-    "Next/000  Next.md",
-    "Next/Server Side Rendering.md",
-    "TypeScript/Objetos.md",
-    "Git/Como volver a commits anteriores.md"
+    "anexos/Pasted.md",
+    "Markdown/Sintaxis de Markdown.md",
+    "TypeScript/Tipos Literales.md"
   ]
 }

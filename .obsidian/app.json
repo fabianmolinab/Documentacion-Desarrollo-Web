@@ -5,5 +5,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./anexos",
   "showUnsupportedFiles": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": false,
+  "useMarkdownLinks": true
 }

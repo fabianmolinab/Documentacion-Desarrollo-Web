@@ -14,7 +14,7 @@
 
 ## Fases 
 
-![Diagrama de Fases](diagramadefases.png)
+![Diagrama de Fases](./anexos/diagramadefases.png)
 
 1. **Planificación:** Dividir el desarrollo en historias de usuario.
 2. **Diseño:** El diseño debe ser simple y en prototipos o bocetos o borradores o  esquemas.

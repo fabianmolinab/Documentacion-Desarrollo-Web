@@ -24,4 +24,4 @@ Mas informacion en: **[Kanban](002%20Kanban.md)**
 ## Programación extrema
 
 Se desarrollo en 1999 con la publicación del libro *Extreme Programming Explained* de Kent Beck,  es una metodología agil enfocada unicamente en el desarrollo de software,  define que los cambios a la hora de desarrollar software es algo nomal y natural.  
-Mas información en **[Programacion Extrema](003%20Programacion%20Extrema.md)** 
+Mas información en **[Programacion Extrema](003%20Programacion%20Extrema.md)** ´

@@ -12,23 +12,23 @@
 
 5. **Respeto:** Respeto entre todos los integrantes del grupo en el proyecto.
 
-## Fases 
+## Fases
 
 ![Diagrama de Fases](./anexos/diagramadefases.png)
 
 1. **Planificación:** Dividir el desarrollo en historias de usuario.
-2. **Diseño:** El diseño debe ser simple y en prototipos o bocetos o borradores o  esquemas.
+2. **Diseño:** El diseño debe ser simple y en prototipos o bocetos o borradores o esquemas.
 3. **Codificación:** Se debe realizar esta fase en Pair Programming y se puede realizar un rediseño en la fase anterior.
 4. **Pruebas:** Ejecución de pruebas unitarias a traves de integración continua, esto se puede realizar en la fase de codificación a medida que partes del software se van terminando se debe realizar test. Ademas pruebas de aceptación o UAT.
 5. **Lanzamiento**
 
-## Practicas 
+## Practicas
 
 - **El desarrollo debe ser iterativo e incremental:** Se deben ir lanzando pequeñas versiones del software que sean funcionales.
 - **Pruebas unitarias continuas:** Es necesario realizar pruebas unitarias continuas y aconseja TDD(Test Driven Development) osea que primero es desarrollar los test y despues desarrollar el software. Tambien recomienda utilizar herramientas de testeo unitario como Github Actions.
 - **Pair Programming:** Desarrollo en parejas en un mismo puesto.
 - **Integración del equipo de desarrollo con el cliente**
-- **Corrección de todos los errores antes de una nueva funcionalidad** 
+- **Corrección de todos los errores antes de una nueva funcionalidad**
 - **Refactorización del codigo:** Aumentar la legibilidad y la mantenibilidad del codigo. Para esto se debe hacer pruebas de regresión con el fin de que los cambios realizados no rompan la funcionalidad, que se mantengan con el mismas carateristicas pero que mejore aspectos como el rendimiento.
-- **Propiedad del codigo:** Cualquier integrante del codigo puede cambiarlo o verlo. 
-- **Simplicidad:** Se debe hacer lo mas simple posible e ir mejorando version en version que hacer algo complicado para que no se utilice, esto tambien permite tiempos de entrega mucho menores y viabilidad del proyecto a los clientes. 
+- **Propiedad del codigo:** Cualquier integrante del codigo puede cambiarlo o verlo.
+- **Simplicidad:** Se debe hacer lo mas simple posible e ir mejorando version en version que hacer algo complicado para que no se utilice, esto tambien permite tiempos de entrega mucho menores y viabilidad del proyecto a los clientes.

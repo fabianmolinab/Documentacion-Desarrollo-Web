@@ -22,3 +22,5 @@ Tambien se puede añadir colores a las tareas o tags para establecer prioridades
 2. **Comprometerse a buscar e implementar cambios incrementales:** Se debe analizar el proceso de trabajo para encontrar los posibles fallos y aciertos.
 3. **Respetar los procesos y cargos actuales:** Como en el primer punto debemos adaptar todo el metodo a lo que ya se está implementando en el proyecto, con el fin de evitar confusiones y retrasos que demoren los procesos ya asimilados por el equipo. 
 4. **Animar el liderazgo en todos los niveles:** 😏
+
+**[<- Volver a Metodologías Agiles](000%20Metodologias%20Agiles.md)** 

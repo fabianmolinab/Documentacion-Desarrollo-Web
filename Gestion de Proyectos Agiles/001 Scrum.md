@@ -22,3 +22,5 @@ En pocas palabras Scrum es un framework que nos permite gestionar los sprint de 
 - **Desarrolladores:** Son equipos autogestionados que se encargan de todo el desarrollo del producto y de cada una de las funcionalidades, debe tener diferentes tipos de profesionales para las distintas areas, se encagan del testing, despligues e integración continua.
 
 - **Maestro de Scrum:** Se encargar de gestionar todo el proyecto Scrum, asi como los sprints y la buena salud del proyecto en general. Coordinando los diferentes equipos.
+
+**[<- Volver a Metodologías Agiles](000%20Metodologias%20Agiles.md)** 

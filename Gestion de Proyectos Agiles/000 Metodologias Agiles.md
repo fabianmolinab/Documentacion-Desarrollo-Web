@@ -25,3 +25,8 @@ Mas informacion en: **[Kanban](002%20Kanban.md)**
 
 Se desarrollo en 1999 con la publicación del libro *Extreme Programming Explained* de Kent Beck,  es una metodología agil enfocada unicamente en el desarrollo de software,  define que los cambios a la hora de desarrollar software es algo nomal y natural.  
 Mas información en **[Programacion Extrema](003%20Programacion%20Extrema.md)** ´
+
+## Agile Testing
+
+En esta metodología agile lo mas caracteristico es realizar los test antes que realizar el producto. 
+Mas información en **[Agile Testing](004%20Agile%20Testing.md)** 

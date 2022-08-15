@@ -32,3 +32,5 @@
 - **Refactorización del codigo:** Aumentar la legibilidad y la mantenibilidad del codigo. Para esto se debe hacer pruebas de regresión con el fin de que los cambios realizados no rompan la funcionalidad, que se mantengan con el mismas carateristicas pero que mejore aspectos como el rendimiento.
 - **Propiedad del codigo:** Cualquier integrante del codigo puede cambiarlo o verlo.
 - **Simplicidad:** Se debe hacer lo mas simple posible e ir mejorando version en version que hacer algo complicado para que no se utilice, esto tambien permite tiempos de entrega mucho menores y viabilidad del proyecto a los clientes.
+
+**[<- Volver a Metodologías Agiles](000%20Metodologias%20Agiles.md)** 

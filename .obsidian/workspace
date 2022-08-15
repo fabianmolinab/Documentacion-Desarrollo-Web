@@ -4,25 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0956268d71e6df3f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "ff4e465247bc0b57",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "27e9c558667774d6",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Gestion de Proyectos Agiles/003 Programacion Extrema.md",
+            "file": "Gestion de Proyectos Agiles/004 Agile Testing.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1315e25129f5e26f",
@@ -99,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de Proyectos Agiles/003 Programacion Extrema.md",
+                "file": "Gestion de Proyectos Agiles/004 Agile Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de Proyectos Agiles/003 Programacion Extrema.md"
+                "file": "Gestion de Proyectos Agiles/004 Agile Testing.md"
               }
             }
           }
@@ -141,15 +137,15 @@
   },
   "active": "ff4e465247bc0b57",
   "lastOpenFiles": [
-    "Gestion de Proyectos Agiles/002 Kanban.md",
-    "Gestion de Proyectos Agiles/001 Scrum.md",
     "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
     "Gestion de Proyectos Agiles/003 Programacion Extrema.md",
-    "Gestion de Proyectos Agiles/anexos/Pasted image 20220719033429.png",
-    "Gestion de Proyectos Agiles/anexos/diagramadefases.png",
+    "Gestion de Proyectos Agiles/002 Kanban.md",
+    "Gestion de Proyectos Agiles/001 Scrum.md",
+    "Gestion de Proyectos Agiles/004 Agile Testing.md",
     "CSS/001 Guía de BEM para CSS.md",
-    "CSS/002 Flexbox.md",
-    "Next/003 Rutas en Next.md",
-    "anexos/Pasted.md"
+    "Git/Tags o Etiquetas.md",
+    "Git/Todo sobre ramas.md",
+    "Git/Git General.md",
+    "Next/Server Side Rendering.md"
   ]
 }

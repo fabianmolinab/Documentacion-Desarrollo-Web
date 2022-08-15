@@ -13,6 +13,7 @@ Son una referencia a un commit, utilizados para marcar versiones especificas del
 `**gti tag**` ⇒ Para ver la lista de todos los tags
 
 `**git show-ref --tags**` ⇒ Lista detallada de los tag y a donde están enlazados
+`git push origin <tag_name>`  => Mandar el tag al repositorio remoto
 
 ## Borrar tags
 

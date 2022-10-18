@@ -6,5 +6,6 @@
   "cssTheme": "Primary",
   "interfaceFontFamily": "IBM Plex Sans,SF Pro Display,IBM Plex Mono",
   "monospaceFontFamily": "IBM Plex Mono,SF Mono,Cascadia Code PL",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": ""
 }

@@ -4,30 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "c617d782b14c0bab",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Next/004 Estilos dentro de los componentes.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "9a5bc352145055b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c617d782b14c0bab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next/006 Next con Typescript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "042ec660078c9d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next/006 Next con Typescript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f06b296d9fedccac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next/004 Estilos dentro de los componentes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "c281b1da0e29bdb7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Next/003 Rutas en Next.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -45,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -100,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next/004 Estilos dentro de los componentes.md",
+                "file": "Next/006 Next con Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next/004 Estilos dentro de los componentes.md"
+                "file": "Next/006 Next con Typescript.md"
               }
             }
           }
@@ -140,17 +161,20 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "c617d782b14c0bab",
   "lastOpenFiles": [
     "Next/000  Next.md",
-    "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
-    "Next/003 Rutas en Next.md",
+    "Next/006 Next con Typescript.md",
+    "Next/getInitialProps.md",
+    "Next/005 Rutas en Next.md",
+    "TypeScript/TypeScript con React.md",
     "Next/004 Estilos dentro de los componentes.md",
     "Next/Configurar ESLINT.md",
     "Next/002 Carpetas y Directorios.md",
     "Next/Server Side Rendering.md",
-    "TypeScript/Funciones.md",
-    "TypeScript/TypeScript con React.md",
-    "Node/000 Node.md"
+    "Gestion de Proyectos Agiles/000 Metodologias Agiles.md"
   ]
 }

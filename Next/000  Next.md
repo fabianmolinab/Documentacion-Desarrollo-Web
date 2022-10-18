@@ -1,3 +1,4 @@
+
 # Next
 
 ## ¿Qué es Next Js
@@ -10,14 +11,34 @@ Segun la pagina oficial Next es un Framework de React para aplicaciones multifun
 
 En la web oficial de [Next](https://nextjs.org/docs/getting-started) el proceso de instalación que es muy sencillo, ya sea utilizando cualquiera de los gestores de paquetes yarn, npm o pnpm.
 ` yarn create next-app` o con typescript `yarn create next-app --typescript`.
-Se puede tambien utilizar vite [[Instalación de Next con Vite]].
+Se puede también utilizar vite [[Instalación de Next con Vite]()].
+
+## Carpetas y directorios
+
+Explicación de cada uno de los directorios y carpetas 
+
+Para mas información =>  [Carpetas y Directorios](002%20Carpetas%20y%20Directorios.md)
 
 ## Rutas
 
-Como ya saben Next cuenta con su propio enrutador, se tiene que instalar paquetes externos como en caso de React Router para aplicaciones SPA de React. 
+Next cuenta con su propio enrutador, se tiene que instalar paquetes externos como en caso de React Router para aplicaciones SPA de React. 
 
-Para mas información => [[003 Rutas en Next]]
+Para mas información => [005 Rutas en Next](005%20Rutas%20en%20Next.md)
 
+## Next/Link
+
+Cuando queremos crear una ruta pero que no se recargue la pagina cada vez es decir un sistema (SPA) tenemos que indicarselo ya que por defecto con el router no está activado. Seria de la siguiente manera:
+
+```jsx
+import Link form 'next/link'
+
+export const Home = () => {
+	<Link href="/timeline"> Time Line</Link>
+}
+
+```
+
+De esta forma será un link sin que se cargue nuevamente la pagina.
 
 ## Estilos dentro de los componentes `styled jsx`
 
@@ -29,6 +50,11 @@ Dentro de los componentes de en Next se puede introducir estilos con la siguient
 
 Para mas información: [[004 Estilos dentro de los componentes]] 
 
+## Typescript con Next
+
+Guía para migrar proyectos de javascript a typescript 
+
+[006 Next con Typescript](006%20Next%20con%20Typescript.md)
 ## Obtención de datos
 
 - [[getInitialProps]] : Añade al servidor los props que va utilizar el componente. Muy importante para el CEO. 

@@ -7,5 +7,7 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
   "vimMode": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "spellcheckLanguages": null,
+  "spellcheck": true
 }

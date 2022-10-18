@@ -32,7 +32,7 @@ _¿Qué hace que un Razor / JSP o similar sea SEO friendly?_ Que todas las trans
 _¿Y por qué es tan importante esto del SEO?_ Si del éxito de tu empresa depende que tu contenido aparezca en Google es algo crítico, ejemplos: una web de reservas de hotel, vuelos, una tienda que vende productos... si lo que haces son aplicaciones de negocio (como puede ser el propio motor de reservas de un hotel, o una aplicación de banca online) no te hará falta, de hecho hasta hace no mucho se solía partir en dos un desarrollo web:
 
 -   La parte de contenido, que la desarrollabas con una tecnología SEO friendly (por ejemplo un CMS) .
--   La parte de "chicha", la que tiene negocio, es decir, todo lo que hay detrás cuando le das click a comprar, reservar, operar...
+-   La parte de "chicha", la que tiene negocio, es decir, todo lo que hay detrás cuando le das clic a comprar, reservar, operar...
 
 Con _server side rendering_ ya no nos hace falta realizar esta separación.
 

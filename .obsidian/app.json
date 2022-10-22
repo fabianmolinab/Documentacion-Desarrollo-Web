@@ -9,5 +9,6 @@
   "vimMode": false,
   "useMarkdownLinks": true,
   "spellcheckLanguages": null,
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false
 }

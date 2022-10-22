@@ -25,7 +25,7 @@ Lo que hace esta linea es correr un contenedor x con alias en un proceso que eje
 
 Te puedes conectar al contenedor y hacer cosas dentro del él con el siguiente comando (sub proceso)
 
-**`docker exec -it [alias] bash`** ⇒ Ejecutas un subproceso
+**`docker exec -it [alias] bash`** ⇒ Ejecutas un subprocesos
 
 **Ejemplo:**  **`docker exec -it notienenombre bash`**
 
@@ -33,8 +33,8 @@ Te puedes conectar al contenedor y hacer cosas dentro del él con el siguiente c
 
 Se puede matar un Main process desde afuera del contenedor, esto se logra conociendo el id del proceso principal del contenedor que se tiene en la maquina. Para saberlo se ejecuta los siguientes comandos
 
-**`dockerinspect --format '{{.State.Pid}}' [alias]`
+`dockerinspect --format '{{.State.Pid}}' [alias]`
 
 Para matar el proceso principal del contenedor desde afuera se ejecuta el siguiente comando (solo funciona en linux)
 
-**`sudo kill -9 [id-process]`
+`sudo kill -9 [id-process]`

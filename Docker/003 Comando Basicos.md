@@ -18,8 +18,8 @@
 
 `docker run -it [nombre del contenedor]` ⇒ Corre en modo interactivo
 
-**`docker stop [alias]` ⇒ (apaga el contenedor)
+**`docker stop [alias]` ⇒ (apaga el contenedor)**
 
-**`docker rm [alias]` ⇒ (borro el contenedor)
+**`docker rm [alias]` ⇒ (borro el contenedor)**
 
-**`docker rm -f [alias]` ⇒ (lo para y lo borra)
+**`docker rm -f [alias]` ⇒ (lo para y lo borra)**

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/000 Docker.md",
+                "file": "Docker/007 Instalación en Linux (Arch).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/000 Docker.md",
+                "file": "Docker/007 Instalación en Linux (Arch).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/000 Docker.md"
+                "file": "Docker/007 Instalación en Linux (Arch).md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "9371be2d6c1c6e7d",
   "lastOpenFiles": [
-    "Docker/007 Instalación en Linux (Arch).md",
-    "Docker/000 Docker.md",
+    "Docker/006 Cheat Sheet de Docker.md",
     "Docker/005 Correr contenedor leyendo un puerto.md",
-    "Docker/003 Comando Basicos.md",
     "Docker/004 Ciclo de vida.md",
-    "Docker/001 Importancia de Docker.md",
+    "Docker/000 Docker.md",
+    "Docker/003 Comando Basicos.md",
     "Docker/002 ¿Como funciona Docker?.md",
+    "Docker/007 Instalación en Linux (Arch).md",
+    "Docker/001 Importancia de Docker.md",
     "Docker/anexos/Docker2.png",
-    "Docker/Manejo de Datos e6e233198da142a6ace193e1bcc805e2.md",
-    "Docker/006 Cheat Sheet de Docker.md"
+    "Docker/Manejo de Datos e6e233198da142a6ace193e1bcc805e2.md"
   ]
 }

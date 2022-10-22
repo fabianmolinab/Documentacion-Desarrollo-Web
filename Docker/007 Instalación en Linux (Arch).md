@@ -1,6 +1,5 @@
 # Instalación en Linux (Arch)
 
-Tipos: Problema
 
 1. `sudo pacman -Syyu` ⇒ Actualizamos paquetes
 2. `sudo pacman -S docker` ⇒ Instala docker

@@ -12,7 +12,7 @@ Es un sistema para resolver las diferencias de software en una maquina, corrigie
 
 Docker permite correr, administrar, distribuir y almacenar aplicaciones en cualquier maquina.
 
-**Leer mas: [Importancia de Docker](001%20Importancia%20de%20Docker.md)
+**Leer mas: [Importancia de Docker](001%20Importancia%20de%20Docker.md)**
 
 ## Comando básicos
 
@@ -39,4 +39,4 @@ Resumen de los comandos mas usados
 
 ## Anexos
 
-- **[Instalación en Linux (Arch)](007%20Instalación%20en%20Linux%20(Arch).md)
+- **[Instalación en Linux (Arch)](007%20Instalación%20en%20Linux%20(Arch).md)**

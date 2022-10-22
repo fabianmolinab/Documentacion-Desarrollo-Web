@@ -1,3 +1,3 @@
 # Cheat Sheet de Docker
 
-![](Docker3.png)
+![DockerCheatsheet](./anexos/Docker3.png)

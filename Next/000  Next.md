@@ -50,11 +50,18 @@ Dentro de los componentes de en Next se puede introducir estilos con la siguient
 
 Para mas información: [[004 Estilos dentro de los componentes]] 
 
+## Layouts 
+
+Los layouts o plantillas son paginas o componentes que se repiten dentro de nuestra aplicación.
+
+Para mas información: [Layouts](006%20Layouts.md)
+
 ## Typescript con Next
 
 Guía para migrar proyectos de javascript a typescript 
 
-[006 Next con Typescript](006%20Next%20con%20Typescript.md)
+[Next con Typescript](007%20Next%20con%20Typescript.md)
+
 ## Obtención de datos
 
 - [[getInitialProps]] : Añade al servidor los props que va utilizar el componente. Muy importante para el CEO. 

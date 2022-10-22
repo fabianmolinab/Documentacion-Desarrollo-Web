@@ -23,7 +23,7 @@ Para mas información =>  [Carpetas y Directorios](002%20Carpetas%20y%20Director
 
 Next cuenta con su propio enrutador, se tiene que instalar paquetes externos como en caso de React Router para aplicaciones SPA de React. 
 
-Para mas información => [005 Rutas en Next](005%20Rutas%20en%20Next.md)
+Para mas información => [Rutas en Next](005%20Rutas%20en%20Next.md)
 
 ## Next/Link
 
@@ -48,7 +48,7 @@ Dentro de los componentes de en Next se puede introducir estilos con la siguient
 <style jsx>{`... Todos lo estilos`} </style>`
 ```
 
-Para mas información: [[004 Estilos dentro de los componentes]] 
+Para mas información: [Estilos dentro de los componentes](004%20Estilos%20dentro%20de%20los%20componentes.md)
 
 ## Layouts 
 

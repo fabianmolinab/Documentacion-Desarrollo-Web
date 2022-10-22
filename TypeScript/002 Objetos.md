@@ -1,7 +1,5 @@
 # Objetos
 
-Fechas: September 13, 2021 12:33 AM
-Tipos: Clase
 
 ```jsx
 //Primera forma

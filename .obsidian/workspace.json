@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "9371be2d6c1c6e7d",
+            "id": "43f2729739c53cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/007 Instalación en Linux (Arch).md",
+                "file": "Next/000  Next.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#next",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/007 Instalación en Linux (Arch).md",
+                "file": "Docker/000 Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/007 Instalación en Linux (Arch).md"
+                "file": "Docker/000 Docker.md"
               }
             }
           }
@@ -164,17 +163,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9371be2d6c1c6e7d",
+  "active": "5604ecdbae2d8557",
   "lastOpenFiles": [
-    "Docker/006 Cheat Sheet de Docker.md",
-    "Docker/005 Correr contenedor leyendo un puerto.md",
-    "Docker/004 Ciclo de vida.md",
-    "Docker/000 Docker.md",
-    "Docker/003 Comando Basicos.md",
-    "Docker/002 ¿Como funciona Docker?.md",
-    "Docker/007 Instalación en Linux (Arch).md",
-    "Docker/001 Importancia de Docker.md",
-    "Docker/anexos/Docker2.png",
-    "Docker/Manejo de Datos e6e233198da142a6ace193e1bcc805e2.md"
+    "TypeScript/001 Tipos de datos.md",
+    "Next/000  Next.md",
+    "Next/getInitialProps.md",
+    "anexos/Pasted.md",
+    "TypeScript/000 TypeScript.md",
+    "TypeScript/008 TypeScript con React.md",
+    "TypeScript/Cómo migrar de js a ts.md",
+    "TypeScript/Instalaciones de TS y JEST.md",
+    "TypeScript/React Typescript Basics.md",
+    "TypeScript/Parte 3 Interfaces [articulo].md"
   ]
 }

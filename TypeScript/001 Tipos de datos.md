@@ -1,9 +1,5 @@
 # Generalidades 
 
-Fechas: September 12, 2021 10:58 AM
-Tags: Basico
-Tipos: Clase
-
 ## Tipos de datos
 
 ### Booleanos
@@ -36,6 +32,7 @@ let cualquier: any = "Puede ser cualquier tipo de dato"
 ```
 
 ### Null
+
 Al igual que en JavaScript, el tipo de datos `null` en TypeScript solo puede tener un valor válido: `null`. Una variable null no puede contener otros tipos de datos como número y cadena de texto. Establecer una variable a null borrará su contenido si tuviese alguno.
 
 Recuerde que cuando el indicador `strictNullChecks` se configura como `true` en **tsconfig.json**, solo el valor null se puede asignar a las variables con tipo null. Este indicador está desactivado por defecto, lo que significa que también puede asignar el valor null a variables con otros tipos como `number` o `void`.
@@ -45,6 +42,7 @@ let nada: null = null
 ```
 
 ### undefined
+
 Cualquier variable cuyo valor no haya especificado se establece en `undefined`. Sin embargo, usted también puede establecer explícitamente el tipo de una variable como indefinida, como se ve en el siguiente ejemplo.
 
 Tenga en cuenta que una variable con `type` configurado como `undefined` solo puede tener undefined como su valor. Si la opción `strictNullChecks` está configurada como `false`, también podrá asignar `undefined` a variables de tipo numérico y cadenas de texto, etc.

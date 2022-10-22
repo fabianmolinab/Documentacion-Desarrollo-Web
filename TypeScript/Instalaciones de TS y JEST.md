@@ -1,8 +1,5 @@
 # Instalaciones TS y JEST
 
-Fechas: September 13, 2021 1:09 PM
-Tipos: Soluciones
-URL: https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c?gi=69e73894a751
 
 # Introduction
 

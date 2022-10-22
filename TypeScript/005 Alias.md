@@ -1,8 +1,5 @@
 # Alias
 
-Fechas: September 29, 2021 1:54 AM
-Tipos: Clase
-
 Cuando necesitamos varias veces un tipo de dato, para evitar repetir código lo mejor utilizar un alias
 
 ```jsx

@@ -23,3 +23,7 @@
 **`docker rm [alias]` ⇒ (borro el contenedor)**
 
 **`docker rm -f [alias]` ⇒ (lo para y lo borra)**
+
+## Gestion de imagenes
+
+`docker image ls`  => Ver todas las imagenes levantadas

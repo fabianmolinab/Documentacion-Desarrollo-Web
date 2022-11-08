@@ -1,31 +1,31 @@
 
 # Next
 
-## ¿Qué es Next Js
+## 1. ¿Qué es Next Js
 
 Segun la pagina oficial Next es un Framework de React para aplicaciones multifunción, cuanta con una de las caracteristicas principales y la mas importante, [[Server Side Rendering]] muchas de las aplicaciones modernas tiene problemas con el posicionamiento, es decir para que los buscadores puedan encontarla, este framework soluciona parte de ambos problemas. Osea tendremos mejor rendimiento, SEO o posicionamiento en buscadores, enrutadores externos, etc.
 
-## ¿Por donde comenzar?
+## 2. ¿Por donde comenzar?
 
-### Instalación
+### 2.1 Instalación
 
 En la web oficial de [Next](https://nextjs.org/docs/getting-started) el proceso de instalación que es muy sencillo, ya sea utilizando cualquiera de los gestores de paquetes yarn, npm o pnpm.
 ` yarn create next-app` o con typescript `yarn create next-app --typescript`.
 Se puede también utilizar vite [[Instalación de Next con Vite]()].
 
-## Carpetas y directorios
+## 3. Carpetas y directorios
 
 Explicación de cada uno de los directorios y carpetas 
 
-Para mas información =>  [Carpetas y Directorios](002%20Carpetas%20y%20Directorios.md)
+Para mas información =>  ***[Carpetas y Directorios](002%20Carpetas%20y%20Directorios.md)***
 
-## Rutas
+ ## 4. Rutas
 
 Next cuenta con su propio enrutador, se tiene que instalar paquetes externos como en caso de React Router para aplicaciones SPA de React. 
 
-Para mas información => [Rutas en Next](005%20Rutas%20en%20Next.md)
+Para mas información => ***[Rutas en Next](005%20Rutas%20en%20Next.md)***
 
-## Next/Link
+## 5. `Next/Link`
 
 Cuando queremos crear una ruta pero que no se recargue la pagina cada vez es decir un sistema (SPA) tenemos que indicarselo ya que por defecto con el router no está activado. Seria de la siguiente manera:
 
@@ -35,12 +35,11 @@ import Link form 'next/link'
 export const Home = () => {
 	<Link href="/timeline"> Time Line</Link>
 }
-
 ```
 
 De esta forma será un link sin que se cargue nuevamente la pagina.
 
-## Estilos dentro de los componentes `styled jsx`
+## 6. Estilos dentro de los componentes `styled jsx`
 
 Dentro de los componentes de en Next se puede introducir estilos con la siguiente etiqueta:
 
@@ -48,19 +47,25 @@ Dentro de los componentes de en Next se puede introducir estilos con la siguient
 <style jsx>{`... Todos lo estilos`} </style>`
 ```
 
-Para mas información: [Estilos dentro de los componentes](004%20Estilos%20dentro%20de%20los%20componentes.md)
+Para mas información: ***[Estilos dentro de los componentes](004%20Estilos%20dentro%20de%20los%20componentes.md)***
 
-## Layouts 
+## 7. Layouts 
 
 Los layouts o plantillas son paginas o componentes que se repiten dentro de nuestra aplicación.
 
-Para mas información: [Layouts](006%20Layouts.md)
+Para mas información: ***[Layouts](006%20Layouts.md)***
 
-## Typescript con Next
+## 8. Typescript con Next
 
 Guía para migrar proyectos de javascript a typescript 
 
-[Next con Typescript](007%20Next%20con%20Typescript.md)
+***[Next con Typescript](007%20Next%20con%20Typescript.md)***
+
+## 9. Desplegar en Docker con Next
+
+Paso a paso de como levantar imagen con Docker
+
+
 
 ## Obtención de datos
 

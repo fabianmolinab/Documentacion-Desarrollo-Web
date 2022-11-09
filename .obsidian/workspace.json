@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next/009 Desplegar Next con Docker.md",
-                "mode": "source",
+                "file": "Next/000  Next.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next/009 Desplegar Next con Docker.md",
+                "file": "Next/000  Next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next/009 Desplegar Next con Docker.md"
+                "file": "Next/000  Next.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "5604ecdbae2d8557",
   "lastOpenFiles": [
-    "Docker/003 Comando Basicos.md",
     "Next/009 Desplegar Next con Docker.md",
+    "Next/000  Next.md",
+    "Docker/003 Comando Basicos.md",
     "Docker/002 ¿Como funciona Docker?.md",
     "Docker/004 Ciclo de vida.md",
     "Docker/005 Correr contenedor leyendo un puerto.md",
     "Docker/006 Cheat Sheet de Docker.md",
     "Docker/007 Instalación en Linux (Arch).md",
     "Docker/000 Docker.md",
-    "Docker/001 Importancia de Docker.md",
-    "Git/Agregar un respositorio remoto y SSH.md"
+    "Docker/001 Importancia de Docker.md"
   ]
 }

@@ -1,7 +1,20 @@
-
 # Next
 
-## 1. ¿Qué es Next Js
+## Tabla de contenidos
+
+- [1. ¿Qué es Next Js?](#1--que-es-next-js-)
+- [2. ¿Por donde comenzar?](#2--por-donde-comenzar-)
+  - [2.1 Instalación](#21-instalaci-n)
+- [3. Carpetas y directorios](#3-carpetas-y-directorios)
+- [4. Rutas](#4-rutas)
+- [5. `Next/Link`](#5--next-link-)
+- [6. Estilos dentro de los componentes `styled jsx`](#6-estilos-dentro-de-los-componentes--styled-jsx-)
+- [7. Layouts](#7-layouts)
+- [8. Typescript con Next](#8-typescript-con-next)
+- [9. Desplegar en Docker con Next](#9-desplegar-en-docker-con-next)
+- [Obtención de datos](#obtenci-n-de-datos)
+
+## 1. ¿Que es Next Js?
 
 Segun la pagina oficial Next es un Framework de React para aplicaciones multifunción, cuanta con una de las caracteristicas principales y la mas importante, [[Server Side Rendering]] muchas de las aplicaciones modernas tiene problemas con el posicionamiento, es decir para que los buscadores puedan encontarla, este framework soluciona parte de ambos problemas. Osea tendremos mejor rendimiento, SEO o posicionamiento en buscadores, enrutadores externos, etc.
 
@@ -15,15 +28,15 @@ Se puede también utilizar vite [[Instalación de Next con Vite]()].
 
 ## 3. Carpetas y directorios
 
-Explicación de cada uno de los directorios y carpetas 
+Explicación de cada uno de los directorios y carpetas
 
-Para mas información =>  ***[Carpetas y Directorios](002%20Carpetas%20y%20Directorios.md)***
+Para mas información => **_[Carpetas y Directorios](002%20Carpetas%20y%20Directorios.md)_**
 
- ## 4. Rutas
+## 4. Rutas
 
-Next cuenta con su propio enrutador, se tiene que instalar paquetes externos como en caso de React Router para aplicaciones SPA de React. 
+Next cuenta con su propio enrutador, se tiene que instalar paquetes externos como en caso de React Router para aplicaciones SPA de React.
 
-Para mas información => ***[Rutas en Next](005%20Rutas%20en%20Next.md)***
+Para mas información => **_[Rutas en Next](005%20Rutas%20en%20Next.md)_**
 
 ## 5. `Next/Link`
 
@@ -47,30 +60,28 @@ Dentro de los componentes de en Next se puede introducir estilos con la siguient
 <style jsx>{`... Todos lo estilos`} </style>`
 ```
 
-Para mas información: ***[Estilos dentro de los componentes](004%20Estilos%20dentro%20de%20los%20componentes.md)***
+Para mas información: **_[Estilos dentro de los componentes](004%20Estilos%20dentro%20de%20los%20componentes.md)_**
 
-## 7. Layouts 
+## 7. Layouts
 
 Los layouts o plantillas son paginas o componentes que se repiten dentro de nuestra aplicación.
 
-Para mas información: ***[Layouts](006%20Layouts.md)***
+Para mas información: **_[Layouts](006%20Layouts.md)_**
 
 ## 8. Typescript con Next
 
-Guía para migrar proyectos de javascript a typescript 
+Guía para migrar proyectos de javascript a typescript
 
-***[Next con Typescript](007%20Next%20con%20Typescript.md)***
+**_[Next con Typescript](007%20Next%20con%20Typescript.md)_**
 
 ## 9. Desplegar en Docker con Next
 
 Paso a paso de como levantar imagen con Docker
 
-
+Para mas información: [Desplegar Next con Docker](009%20Desplegar%20Next%20con%20Docker.md)
 
 ## Obtención de datos
 
-- [[getInitialProps]] : Añade al servidor los props que va utilizar el componente. Muy importante para el CEO. 
+- [[getInitialProps]] : Añade al servidor los props que va utilizar el componente. Muy importante para el CEO.
 
-
-
-###### Tags: #next #react 
+###### Tags: #next #react

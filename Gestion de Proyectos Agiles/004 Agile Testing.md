@@ -4,7 +4,7 @@
 
 - **Retroalimentación conjunta**
 - **Productos de calidad**
-- **Agile testing adaptado a la empresa, no al revés:** Adapatar la metodología al proyecto que se este desarrollando.
+- **Agile testing adaptado a la empresa, no al revés:** Adaptar la metodología al proyecto que se este desarrollando.
 - **Practicas basadas en testing -CI, TDD, BDD, ATDD**
 - **Testing Continuo - por parte de todos los equipos**
 
@@ -13,17 +13,17 @@
 1. **Las pruebas realizadas son continuas:** Testing continuo para garantizar la calidad del producto.
 2. **Retroalimentación constante:** Retroalimentación por parte de los equipos involucrados y de los usuarios.
 3. **Testing por parte de todos los equipos**
-4. **Responder con rapidez al feeedback**
-5. **Crear codigo limpio y simplificado:** Codigo legible y mantenible
-6. **Producir menos documentación:** Checklist reutilizables en lugar de centrarse en incidencias puntuales, es decir, podemos ser ir documentado dependiendo las funcionalidades que se vayan implementando.
-7. **Probar para descubir:** Testing se realiza en el mismo proceso de implementación en lugar de despues.
+4. **Responder con rapidez al feedback**
+5. **Crear código limpio y simplificado:** Código legible y manteniente
+6. **Producir menos documentación:** Checklist re-utilizables en lugar de centrarse en incidencias puntuales, es decir, podemos ser ir documentado dependiendo las funcionalidades que se vayan implementando.
+7. **Probar para descubrir:** Testing se realiza en el mismo proceso de implementación en lugar de después.
 
 ## Tipos de  pruebas
 
 - **TDD Test Driven Development**
 - **ATDD Acceptance Test Driven Development:** 
 	- Desarrollo guiado por pruebas funcionales
-	- Primero se desarrolland los casos de test y luego el codigo
+	- Primero se desarrollando los casos de test y luego el código
 	- Cypress y Selenium
 - **BDD Behaviour Driven Development:**
 	* Desarrollo guiado por pruebas funcionales -> Pruebas automatizadas

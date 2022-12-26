@@ -12,7 +12,8 @@
 - [7. Layouts](#7-layouts)
 - [8. Typescript con Next](#8-typescript-con-next)
 - [9. Desplegar en Docker con Next](#9-desplegar-en-docker-con-next)
-- [Obtención de datos](#obtenci-n-de-datos)
+- [10. Configuraciones Avanzadas](#10-configuraciones-avanzadas)
+- [Obtención de datos](#obtencion-de-datos)
 
 ## 1. ¿Que es Next Js?
 
@@ -80,7 +81,11 @@ Paso a paso de como levantar imagen con Docker
 
 Para mas información: [Desplegar Next con Docker](009%20Desplegar%20Next%20con%20Docker.md)
 
-## Obtención de datos
+## 10. Configuraciones Avanzadas
+
+- Next/Document: Para configurar las etiquetas html y head generales
+
+## Obtencion de datos
 
 - [[getInitialProps]] : Añade al servidor los props que va utilizar el componente. Muy importante para el CEO.
 

@@ -8,32 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5604ecdbae2d8557",
+            "id": "1174de42e08baa8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next/000  Next.md",
-                "mode": "preview",
+                "file": "Go/000 Golang.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "75c346c23c78469f",
+            "id": "1ceb7128ce2d3686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/003 Comando Basicos.md",
+                "file": "Next/011 Static Site Generation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "767e3a8e5f6af704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next/011 Static Site Generation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#next",
+                "query": "tag:#estilos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "1315e25129f5e26f",
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next/000  Next.md",
+                "file": "Next/011 Static Site Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next/000  Next.md"
+                "file": "Next/011 Static Site Generation.md"
               }
             }
           }
@@ -148,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5604ecdbae2d8557",
+  "active": "767e3a8e5f6af704",
   "lastOpenFiles": [
-    "Next/009 Desplegar Next con Docker.md",
+    "Next/getInitialProps.md",
     "Next/000  Next.md",
-    "Docker/003 Comando Basicos.md",
-    "Docker/002 ¿Como funciona Docker?.md",
-    "Docker/004 Ciclo de vida.md",
-    "Docker/005 Correr contenedor leyendo un puerto.md",
-    "Docker/006 Cheat Sheet de Docker.md",
-    "Docker/007 Instalación en Linux (Arch).md",
-    "Docker/000 Docker.md",
-    "Docker/001 Importancia de Docker.md"
+    "Next/004 Estilos dentro de los componentes.md",
+    "Next/011 Static Site Generation.md",
+    "Next/Server Side Rendering.md",
+    "Next/009 Desplegar Next con Docker.md",
+    "Go/000 Golang.md",
+    "Markdown/Sintaxis de Markdown.md",
+    "Next/006 Layouts.md",
+    "Next/010 Test con Jest.md"
   ]
 }

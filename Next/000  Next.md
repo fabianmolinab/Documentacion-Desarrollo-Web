@@ -85,6 +85,12 @@ Para mas información: [Desplegar Next con Docker](009%20Desplegar%20Next%20con%
 
 - Next/Document: Para configurar las etiquetas html y head generales
 
+## 11. Static Side Generation
+
+La *generacion estatica* se usa cuando conocemos los datos que nuestra pagina necesita y no cambian en tiempo real.
+
+[Static Site Generation](./011%20Static%20Site%20Generation.md)
+
 ## Obtencion de datos
 
 - [[getInitialProps]] : Añade al servidor los props que va utilizar el componente. Muy importante para el CEO.

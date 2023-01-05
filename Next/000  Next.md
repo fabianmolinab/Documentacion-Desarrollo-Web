@@ -25,7 +25,6 @@ Segun la pagina oficial Next es un Framework de React para aplicaciones multifun
 
 En la web oficial de [Next](https://nextjs.org/docs/getting-started) el proceso de instalación que es muy sencillo, ya sea utilizando cualquiera de los gestores de paquetes yarn, npm o pnpm.
 ` yarn create next-app` o con typescript `yarn create next-app --typescript`.
-Se puede también utilizar vite [[Instalación de Next con Vite]()].
 
 ## 3. Carpetas y directorios
 
@@ -33,11 +32,11 @@ Explicación de cada uno de los directorios y carpetas
 
 Para mas información => **_[Carpetas y Directorios](002%20Carpetas%20y%20Directorios.md)_**
 
-## 4. Rutas
+## 4. [Rutas](./005%20Rutas%20en%20Next.md)
 
 Next cuenta con su propio enrutador, se tiene que instalar paquetes externos como en caso de React Router para aplicaciones SPA de React.
 
-Para mas información => **_[Rutas en Next](005%20Rutas%20en%20Next.md)_**
+Para mas información => **_[Rutas en Next](./005%20Rutas%20en%20Next.md)_**
 
 ## 5. `Next/Link`
 
@@ -87,9 +86,17 @@ Para mas información: [Desplegar Next con Docker](009%20Desplegar%20Next%20con%
 
 ## 11. Static Side Generation
 
-La *generacion estatica* se usa cuando conocemos los datos que nuestra pagina necesita y no cambian en tiempo real.
+La **[generacion estatica](./011%20Static%20Site%20Generation.md)** se usa cuando conocemos los datos que nuestra pagina necesita y no cambian en tiempo real.
 
 [Static Site Generation](./011%20Static%20Site%20Generation.md)
+
+## 12. Testing 
+
+Guía de articulos para aprender hacer testing en Next:
+
+- [Todo sobre testing](000%20Testing.md) 
+- [Test Unitarios con Jest](010%20Test%20con%20Jest.md)
+
 
 ## Obtencion de datos
 

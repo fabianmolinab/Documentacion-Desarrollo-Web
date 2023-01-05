@@ -1,3 +1,3 @@
 
-## Estilos como modulos
+## Estilos como módulos
 

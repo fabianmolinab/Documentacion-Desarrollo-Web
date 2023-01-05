@@ -10,5 +10,6 @@
   "useMarkdownLinks": true,
   "spellcheckLanguages": null,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showFrontmatter": true
 }

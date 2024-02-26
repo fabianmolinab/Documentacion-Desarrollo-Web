@@ -13,4 +13,33 @@ Abre tu terminal y ejecuta el siguiente hechizo para invocar a Playwright junto 
 
 `npm init playwright@latest`
 
-Estás preparando el escenario para un épico rendimiento. 🚀
+Solo sigue las intrucciones y se te descarga un proyecto con la siguiente estructura: 
+
+```
+playwright.config.ts
+package.json
+package-lock.json
+tests/
+  example.spec.ts
+tests-examples/
+  demo-todo-app.spec.ts
+```
+
+## Paso 3: A darle vida al `package.json` **🛠️**
+
+Solo copie esta estructura en **package.json** y listo: 
+```json 
+    "scripts": {
+            "pw:install": "npx playwright install --with-deps",
+            "test:plan": "npx playwright test --reporter=list --project=chromium --list",
+            "test:ui": "npx playwright test --ui",
+            "test:trace": "npx playwright show-trace",
+            "test:debug": "npx playwright test --project=chromium --debug",
+            "test": "npx playwright test --project=chromium",
+            "test:firefox": "npx playwright test --project=firefox",
+            "test:edge": "npx playwright test --project=edge",
+            "test:iphone": "npx playwright test --project=iphone",
+            "test:ci": "npx playwright test",
+                        "check-types": "tsc --noEmit --project tsconfig.json"
+}
+```

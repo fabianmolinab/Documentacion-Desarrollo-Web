@@ -40,6 +40,16 @@ Solo copie esta estructura en **package.json** y listo:
             "test:edge": "npx playwright test --project=edge",
             "test:iphone": "npx playwright test --project=iphone",
             "test:ci": "npx playwright test",
-                        "check-types": "tsc --noEmit --project tsconfig.json"
+            "check-types": "tsc --noEmit --project tsconfig.json"
 }
 ```
+
+## **Paso 4: ESLint y Prettier, los Guardianes del Estilo 💂**
+
+En la lucha por el formato consistente y la legibilidad, incorporen a sus filas ESLint y Prettier:
+
+`npm install eslint prettier --save-dev`
+
+Luchen contra la anarquía del código con la configuración de ESLint:
+
+`npx eslint --init`

@@ -1,9 +1,9 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 22,
   "theme": "obsidian",
   "translucency": false,
   "textFontFamily": "IBM Plex Sans,Fira Code,Athelas,Charter,Cooper Hewitt,Product Sans,SF Pro Display",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "IBM Plex Sans,SF Pro Display,IBM Plex Mono",
   "monospaceFontFamily": "IBM Plex Mono,SF Mono,Cascadia Code PL",
   "baseFontSizeAction": true,

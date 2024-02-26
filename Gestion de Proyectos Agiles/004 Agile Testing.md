@@ -40,7 +40,7 @@
 
 1. **Impact Assessment (Evalación de impacto)** => Recopilación de las sugerencias de los usuarios y stakeholders
 2. **Agile Testing Planning (Planificación de Agile Testing)** => Reunión por planificación de procesos, timelines y entregables
-3. **Daily Scrums (Reuniones diarias)** => Reuniones diarias de pie y de no mas de 15 minutos donde se revisa lo se ha hecho el dia anterior, que es lo que va hacer hoy, y posibles barreras/stoppers
+3. **Daily Scrums (Reuniones diarias)** => Reuniones diarias de pie y de no mas de 15 minutos donde se revisa lo se ha hecho el día anterior, que es lo que va hacer hoy, y posibles barreras/stoppers
 4. **Testing Agility Review (Revisión general del proyecto bajo Agile Testing)** => Reuniones semanales donde se revisa el progreso del proyecto
 5. **Release Readiness (Preparación de lanzamiento)** => Revisión de las funcionalidades existentes y los cumplientos de las funcionalidades, se define las que están listas y las que no.
 

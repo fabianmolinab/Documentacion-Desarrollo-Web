@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next/011 Static Site Generation.md",
+                "file": "Playwriting/0000 Playwright.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,13 +79,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f25868c27c0dbb35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "1315e25129f5e26f",
@@ -108,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next/011 Static Site Generation.md",
+                "file": "Playwriting/0000 Playwright.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next/011 Static Site Generation.md"
+                "file": "Playwriting/0000 Playwright.md"
               }
             }
           }
@@ -150,27 +158,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir el importador de Markdown": false,
-      "audio-recorder:Empezar/Parar de grabar": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "1d441e5a157b2635",
+  "active": "ce27e0478fcd27d2",
   "lastOpenFiles": [
+    "Playwriting/0001 Como configurar un proyecto con playwrigth.md",
+    "CSS/001 Guía de BEM para CSS.md",
+    "Playwriting/0000 Playwright.md",
+    "Testing/000 Testing.md",
+    "Next/000  Next.md",
     "Next/Server Side Rendering.md",
     "Next/011 Static Site Generation.md",
-    "Next/¿Como crear multiples rutas en Next.js?.md",
-    "Next/000  Next.md",
-    "Go/000 Golang.md",
-    "Next/getInitialProps.md",
+    "Next/010 Test con Jest.md",
+    "Testing/002 Pruebas Unitarias.md",
+    "Node/002 Modulos.md",
+    "Playwriting",
+    "2024-02-25.md",
+    "Node/001 Blocking or No Blocking.md",
+    "Node/000 Node.md",
     "Next/004 Estilos dentro de los componentes.md",
+    "Estructuras de Datos/001 Listas Enlazadas.md",
+    "Estructuras de Datos/000 Estructuras de Datos.md",
+    "Go/000 Golang.md",
+    "Git/Git General.md",
+    "Gestion de Proyectos Agiles/000 Metodologias Agiles.md",
+    "Gestion de Proyectos Agiles/004 Agile Testing.md",
     "Next/009 Desplegar Next con Docker.md",
-    "Markdown/Sintaxis de Markdown.md",
-    "Next/006 Layouts.md"
+    "Gestion de Proyectos Agiles/001 Scrum.md",
+    "Docker/000 Docker.md",
+    "Docker/003 Comando Basicos.md",
+    "Next/¿Como crear multiples rutas en Next.js?.md",
+    "Next/getInitialProps.md"
   ]
 }

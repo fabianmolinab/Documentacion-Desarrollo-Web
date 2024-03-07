@@ -1,4 +1,6 @@
+# Selectores y Locators
 
+Son métodos usados para la búsqueda de elementos dentro del DOM de la pagina web
 ### getByRole()
 
 es un localizador que permite la detección de elementos dentro del DOM como atributos orientados al usuario.
@@ -34,7 +36,7 @@ es un localizador por texto dentro de los tags htmls, la sintaxis seria las sigu
 	page.getByText("Este es un buen parrafo").toBeVisible()
 ```
 
-Si la busqueda se hace como de esa forma va tomar ambas etiquetas como validas pero si le agregamos el exact va tomar justo la etiqueta html que contenga ese texto.
+Si la búsqueda se hace como de esa forma va tomar ambas etiquetas como validas pero si le agregamos el exact va tomar justo la etiqueta  que contenga ese texto.
 
 ```typescript
 	page.getByText("Este es un buen parrafo", {exact:true} )

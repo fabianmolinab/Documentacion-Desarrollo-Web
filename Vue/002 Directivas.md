@@ -10,6 +10,16 @@ Dichas **directivas** están formadas por varias partes:
 - **Argumento**: En ciertas directivas se indica un parámetro.
 - **Modificador**: En ciertas directivas se puede modificar el comportamiento.
 - **Valor**: En ciertas directivas, se requiere establecer un valor. Se escribe como el valor de un atributo HTML.
+
+### `v-on` (abreviado como `@`)
+
+La directiva `v-on` se utiliza para escuchar eventos del DOM y ejecutar métodos en respuesta a ellos. Aquí hay un ejemplo:
+
+```html
+<button @click="handleClick">Haz clic aquí</button>
+```
+Mas información -> [Eventos y modificadores](./003 Eventos.md)
+
 ### [Directiva v-show](https://lenguajejs.com/vuejs/directivas-vue/v-show-y-v-if/#la-directiva-v-show)
 
 La directiva se realiza como una directiva para mostrar u ocultar algo, dependiendo del valor boleano que tenga, si es true lo muestra, si es false lo oculta con CSS, mediante un display: none. Mejor un ejemplo:
@@ -74,6 +84,7 @@ Puedes cambiar dinámicamente el valor de `mostrarMensaje` para controlar la vis
 ```
 
 Con este botón, cada vez que se haga clic, el valor de `mostrarMensaje` se invertirá, lo que alternará la visibilidad del mensaje en el componente `MensajeComponent`.
+
 ### Directiva `v-for`
 
 La directiva `v-for` se utiliza para renderizar una lista de elementos basada en una matriz o un objeto. 
@@ -108,14 +119,6 @@ La directiva `v-bind` se utiliza para enlazar dinámicamente un atributo de un e
 
 ```html
 <img v-bind:src="imagenUrl">
-```
-
-### `v-on` (abreviado como `@`)
-
-La directiva `v-on` se utiliza para escuchar eventos del DOM y ejecutar métodos en respuesta a ellos. Aquí hay un ejemplo:
-
-```html
-<button @click="handleClick">Haz clic aquí</button>
 ```
 
 ### `v-model`
